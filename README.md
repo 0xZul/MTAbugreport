@@ -22,13 +22,12 @@ Swap operation failed with an error related to internet connection, even though 
 7. I noticed two notifications: "Swap TON>USDT Expired" and "Swapped TON>USDT"  
 8. About a minute later, another notification appeared: "Swapped TON>USDT"
 
-### Screenshots
-<img src="screenshots/photo_2025-07-18_21-55-35.jpg" alt="long time load" width="300"/><img src="screenshots/photo_2025-07-18_21-55-42.jpg" alt="error message" width="300"/>
-<img src="screenshots/photo_2025-07-18_21-55-50.jpg" alt="USDT balance" width="300"/><img src="screenshots/photo_2025-07-18_21-55-58.jpg" alt="Swap TON>USDT Expired" width="300"/>
-
 ### Additional Context
 This only happened once. After that, everything returned to normal—transaction history and balance were correct.
 
+### Screenshots
+<img src="screenshots/photo_2025-07-18_21-55-35.jpg" alt="long time load" width="300"/><img src="screenshots/photo_2025-07-18_21-55-42.jpg" alt="error message" width="300"/>
+<img src="screenshots/photo_2025-07-18_21-55-50.jpg" alt="USDT balance" width="300"/><img src="screenshots/photo_2025-07-18_21-55-58.jpg" alt="Swap TON>USDT Expired" width="300"/>
 
 ## 2. Incorrect TON Currency Display
 
@@ -39,11 +38,11 @@ In addition to fiat currencies like USD, RUB, etc., there are also crypto curren
 2. Select TON as the currency  
 3. Observe that the displayed prices are significantly different from actual market values
 
-### Screenshots
-<img src="screenshots/photo_2025-07-18_21-56-20.jpg" alt="incorrect price display" width="300"/>
-
 ### Additional Context
 I only checked the USDT/TON and NOT/TON pairs, and both displayed incorrect values. I haven’t verified other crypto or fiat currency pairs yet.
+
+### Screenshots
+<img src="screenshots/photo_2025-07-18_21-56-20.jpg" alt="incorrect price display" width="300"/>
 
 ## My TON address
 ### UQDfISizGUE350py_fYVfhI-eeLZfQJYnywheDk6gb11TWXj
