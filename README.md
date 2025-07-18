@@ -1,12 +1,13 @@
 # MyTonWallet Air Bug Reports
 
 # [1. Swap Error](#1-swap-error-please-make-sure-your-internet-connection-is-working-and-try-again)
-
+# [2. Incorrect Price](#1-swap-error-please-make-sure-your-internet-connection-is-working-and-try-again)
 
 ## Environment
 • Device model: POCO X6 Pro Xiaomi HyperOS 2.0.100.0  
 • OS version: Android 15 AP3A.240905.015.A2  
 • App version: MyTonWallet Air v4.0-alpha (22)
+
 
 ## 1. Swap Error, "Please make sure your internet connection is working and try again"
 Swap operation failed with an error related to internet connection, even though my internet was working properly. After entering the passcode/fingerprint, the loading took a long time (around a minute), and an error message appeared. I also received a push notification: "Swap TON>USDT Expired".
@@ -28,3 +29,19 @@ Swap operation failed with an error related to internet connection, even though 
 
 ### Additional Context
 This only happened once. After that, everything returned to normal—transaction history and balance were correct.
+
+
+## 2. Incorrect TON Currency Display
+
+In addition to fiat currencies like USD, RUB, etc., there are also crypto currencies such as BTC and TON. However, the TON currency is displaying incorrect prices. For example, the price of 1 USDT is shown as 7 TON, which is inaccurate.
+
+### Steps to Reproduce
+1. Go to the "My Wallet" page  
+2. Select TON as the currency  
+3. Observe that the displayed prices are significantly different from actual market values
+
+### Screenshots
+<img src="screenshots/photo_2025-07-18_21-56-20.jpg" alt="incorrect price display" width="300"/>
+
+### Additional Context
+I only checked the USDT/TON and NOT/TON pairs, and both displayed incorrect values. I haven’t verified other crypto or fiat currency pairs yet.
