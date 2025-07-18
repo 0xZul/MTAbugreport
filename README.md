@@ -19,10 +19,10 @@ Swap operation failed with an error related to internet connection, even though 
 8. About a minute later, another notification appeared: "Swapped TON>USDT"
 
 ### Screenshots
-![long time load](screenshots/photo_2025-07-18_21-55-35.jpg)
-![error message](screenshots/photo_2025-07-18_21-55-42.jpg)
-![USDT balance](screenshots/photo_2025-07-18_21-55-50.jpg)
-![Swap TON>USDT Expired](screenshots/photo_2025-07-18_21-55-58.jpg)
+<img src=".screenshots/photo_2025-07-18_21-55-35.jpg" alt="long time load" width="300"/>
+<img src=".screenshots/photo_2025-07-18_21-55-42.jpg" alt="error message" width="300"/>
+<img src=".screenshots/photo_2025-07-18_21-55-50.jpg" alt="USDT balance" width="300"/>
+<img src=".screenshots/photo_2025-07-18_21-55-58.jpg" alt="Swap TON>USDT Expired" width="300"/>
 
 ### Additional Context
 This only happened once. After that, everything returned to normal—transaction history and balance were correct.
