@@ -45,3 +45,6 @@ In addition to fiat currencies like USD, RUB, etc., there are also crypto curren
 
 ### Additional Context
 I only checked the USDT/TON and NOT/TON pairs, and both displayed incorrect values. I haven’t verified other crypto or fiat currency pairs yet.
+
+## My TON address
+### UQDfISizGUE350py_fYVfhI-eeLZfQJYnywheDk6gb11TWXj
