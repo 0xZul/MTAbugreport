@@ -1,7 +1,7 @@
 # MyTonWallet Air Bug Reports
 
-# [1. Swap Error](#1-swap-error-please-make-sure-your-internet-connection-is-working-and-try-again)
-# [2. Incorrect Price](#1-swap-error-please-make-sure-your-internet-connection-is-working-and-try-again)
+# [1. Swap Error, internet connection](#1-swap-error-please-make-sure-your-internet-connection-is-working-and-try-again)
+# [2. Incorrect Price on TON](#2-incorrect-ton-currency-display)
 
 ## Environment
 • Device model: POCO X6 Pro Xiaomi HyperOS 2.0.100.0  
