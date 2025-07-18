@@ -19,8 +19,7 @@ Swap operation failed with an error related to internet connection, even though 
 8. About a minute later, another notification appeared: "Swapped TON>USDT"
 
 ### Screenshots
-<img src="screenshots/photo_2025-07-18_21-55-35.jpg" alt="long time load" width="300"/>
-<img src="screenshots/photo_2025-07-18_21-55-42.jpg" alt="error message" width="300"/>
+<img src="screenshots/photo_2025-07-18_21-55-35.jpg" alt="long time load" width="300"/><img src="screenshots/photo_2025-07-18_21-55-42.jpg" alt="error message" width="300"/>
 <img src="screenshots/photo_2025-07-18_21-55-50.jpg" alt="USDT balance" width="300"/>
 <img src="screenshots/photo_2025-07-18_21-55-58.jpg" alt="Swap TON>USDT Expired" width="300"/>
 
