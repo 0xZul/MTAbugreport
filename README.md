@@ -34,7 +34,7 @@ This only happened once. After that, everything returned to normal—transaction
 In addition to fiat currencies like USD, RUB, etc., there are also crypto currencies such as BTC and TON. However, the TON currency is displaying incorrect prices. For example, the price of 1 USDT is shown as 7 TON, which is inaccurate.
 
 ### Steps to Reproduce
-1. Go to the "My Wallet" page  
+1. Go to the "Home" page  
 2. Select TON as the currency  
 3. Observe that the displayed prices are significantly different from actual market values
 
