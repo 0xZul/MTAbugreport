@@ -5,7 +5,7 @@
 • OS version: Android 15 AP3A.240905.015.A2  
 • App version: MyTonWallet Air v4.0-alpha (22)
 
-## Swap Error, "Please make sure your internet connection is working and try again"
+## 1. Swap Error, "Please make sure your internet connection is working and try again"
 Swap operation failed with an error related to internet connection, even though my internet was working properly. After entering the passcode/fingerprint, the loading took a long time (around a minute), and an error message appeared. I also received a push notification: "Swap TON>USDT Expired".
 
 ### Steps to Reproduce
